@@ -1,0 +1,12 @@
+slide Python 500 1 Introduction 9 Python 10 Python 12 Python 13 Python 14 2 Print Command 15 Print String 17 Quote 18 Double Quote 19 Multiple Line 20 String with Quotation Marks 21 String with Backslash 22 Print Numeric 27 Numeric 28 d f s 29 Print String Numeric 33 Comma 34 String Concatenation 35 d f s 36 3 Variable 38 Create Assign 40 Create Multiple Variable 43 Identifier 46 Character Underscore First 47 Case Sensitive 49 
+
+No Special Character 50 Reversed Word 54 4 Data Structure 59 Basic Data Structure 61 Numeric 62 Integer 63 Floating Point Number 64 Boolean 65 Complex Number 66 String 68 Create String 69 Read String 70 String replace 72 String len 73 String in 74 String split 75 String Concatenation 76 Composite Data Structure 80 List 81 Create List 93 Read List 94 Update List 96 Replace 96 append 107 extend 108 insert 109 Delete List 90 
+
+del 90 remove 92 clear 93 List sort 94 List len 910 List in 109 Tuple 101 Create Tuple 103 Read Tuple 104 Tul pe len 106 Tuple in 107 Dictionary 109 Create Dictionary 111 Read Dictionary 112 Update Dictionary 113 Replace 113 Add New Key 114 update 115 Delete Dictionary 116 del 116 clear 117 Dictionary len 118 Dictionary in 119 Set 122 Create Set 126 Read Set 127 Update Set 128 
+
+add 128 update 129 Delete Set 130 remove 130 clear 131 Set len 132 Set in 133 Set Union 134 Set Intersection 135 Set Difference 136 Set Symmetric Difference 137 5 Operators 144 Arithmetic Operators 147 148 149 150 151 152 153 154 Comparison Operators 156 157 158 159 160 161 162 
+
+Logical Operators 164 and 165 or 167 not 169 Membership Operators 172 in 173 not in 175 Operators Precedence 178 6 Flowchart 180 Start End 181 Input 181 Process 181 Decision 181 Print 181 7 IF Else 184 If 186 If Else 190 If El if 194 If El if Else 199 8 For While 205 For 207 Standard For 208 for i in range end 209 for i in range start end 210 for i in range start end step 211 For String 212 For List 216 For Tuple 220 
+
+For Dictionary 224 For Set 227 While 229 Loop Statement 233 break 234 continue 235 pass 236 9 Function 239 with Parameters 247 without Parameters 251 10 OOP 254 Attribute 257 Method 262 
+
